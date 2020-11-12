@@ -33,8 +33,6 @@ function draw() {
       if(deformation<100){
         car.shapeColor = "green"
       }
-  }
   
-
   drawSprites();
 }
